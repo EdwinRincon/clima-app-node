@@ -1,0 +1,192 @@
+{
+    "message": "accurate",
+    "cod": "200",
+    "count": 5,
+    "list": [
+        {
+            "id": 6544494,
+            "name": "Madrid City Center",
+            "coord": {
+                "lat": 40.42,
+                "lon": -3.7
+            },
+            "main": {
+                "temp": 20.33,
+                "feels_like": 16.76,
+                "temp_min": 19,
+                "temp_max": 22,
+                "pressure": 1015,
+                "humidity": 42
+            },
+            "dt": 1601500430,
+            "wind": {
+                "speed": 4.1,
+                "deg": 240
+            },
+            "sys": {
+                "country": "ES"
+            },
+            "rain": null,
+            "snow": null,
+            "clouds": {
+                "all": 0
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "clear sky",
+                    "icon": "01n"
+                }
+            ]
+        },
+        {
+            "id": 3117735,
+            "name": "Madrid",
+            "coord": {
+                "lat": 40.42,
+                "lon": -3.7
+            },
+            "main": {
+                "temp": 20.33,
+                "feels_like": 16.76,
+                "temp_min": 19,
+                "temp_max": 22,
+                "pressure": 1015,
+                "humidity": 42
+            },
+            "dt": 1601500322,
+            "wind": {
+                "speed": 4.1,
+                "deg": 240
+            },
+            "sys": {
+                "country": "ES"
+            },
+            "rain": null,
+            "snow": null,
+            "clouds": {
+                "all": 0
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "clear sky",
+                    "icon": "01n"
+                }
+            ]
+        },
+        {
+            "id": 6545083,
+            "name": "Sol",
+            "coord": {
+                "lat": 40.42,
+                "lon": -3.7
+            },
+            "main": {
+                "temp": 20.33,
+                "feels_like": 16.76,
+                "temp_min": 19,
+                "temp_max": 22,
+                "pressure": 1015,
+                "humidity": 42
+            },
+            "dt": 1601500430,
+            "wind": {
+                "speed": 4.1,
+                "deg": 240
+            },
+            "sys": {
+                "country": "ES"
+            },
+            "rain": null,
+            "snow": null,
+            "clouds": {
+                "all": 0
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "clear sky",
+                    "icon": "01n"
+                }
+            ]
+        },
+        {
+            "id": 3117732,
+            "name": "Madrid",
+            "coord": {
+                "lat": 40.43,
+                "lon": -3.69
+            },
+            "main": {
+                "temp": 20.33,
+                "feels_like": 16.76,
+                "temp_min": 19,
+                "temp_max": 22,
+                "pressure": 1015,
+                "humidity": 42
+            },
+            "dt": 1601500322,
+            "wind": {
+                "speed": 4.1,
+                "deg": 240
+            },
+            "sys": {
+                "country": "ES"
+            },
+            "rain": null,
+            "snow": null,
+            "clouds": {
+                "all": 0
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "clear sky",
+                    "icon": "01n"
+                }
+            ]
+        },
+        {
+            "id": 6545095,
+            "name": "Bilbao",
+            "coord": {
+                "lat": 40.43,
+                "lon": -3.7
+            },
+            "main": {
+                "temp": 20.33,
+                "feels_like": 16.76,
+                "temp_min": 19,
+                "temp_max": 22,
+                "pressure": 1015,
+                "humidity": 42
+            },
+            "dt": 1601500430,
+            "wind": {
+                "speed": 4.1,
+                "deg": 240
+            },
+            "sys": {
+                "country": "ES"
+            },
+            "rain": null,
+            "snow": null,
+            "clouds": {
+                "all": 0
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "clear sky",
+                    "icon": "01n"
+                }
+            ]
+        }
+    ]
+}
